@@ -20,4 +20,9 @@ Course documentation: https://btholt.github.io/four-semesters-of-cs/
 
 Cheat sheets [http://bigocheatsheet.com/]
 
+### Algorythm
+
+Visualisation [https://visualgo.net/en]
+
+Check learn RX: Google: `learn Rx`
 
