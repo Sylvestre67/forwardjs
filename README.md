@@ -10,4 +10,8 @@ Resource on selection: [https://github.com/rithmschool/intro_to_d3]
 
 Course documentation: https://btholt.github.io/four-semesters-of-cs/
 
-The Book: https://mitpress.mit.edu/books/introduction-algorithms
+### Books 
+
+https://mitpress.mit.edu/books/introduction-algorithms
+
+https://mitpress.mit.edu/sicp/full-text/book/book.html
