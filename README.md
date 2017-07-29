@@ -15,3 +15,9 @@ Course documentation: https://btholt.github.io/four-semesters-of-cs/
 https://mitpress.mit.edu/books/introduction-algorithms
 
 https://mitpress.mit.edu/sicp/full-text/book/book.html
+
+### Big O
+
+Cheat sheets: http://bigocheatsheet.com/
+
+
